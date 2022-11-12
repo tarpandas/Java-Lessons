@@ -1,0 +1,5 @@
+Hybrid Inheritance
+
+Combination of more than one types of inheritance in a single program. 
+For example class B & C extends A and another class D extends class C then this is a hybrid inheritance 
+example because it is a combination of single and hierarchical inheritance.
